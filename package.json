@@ -1,0 +1,12 @@
+{
+  "name": "lambda_smallwins_playground",
+  "version": "1.0.0",
+  "description": "Playground for lambda @smallwins library",
+  "main": "index.js",
+  "author": "Riza Fahmi",
+  "license": "MIT",
+  "dependencies": {
+    "@smallwins/lambda": "^6.0.3",
+    "@smallwins/validate": "^4.1.2"
+  }
+}
